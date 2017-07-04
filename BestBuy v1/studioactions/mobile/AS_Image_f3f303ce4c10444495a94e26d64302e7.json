@@ -1,0 +1,26 @@
+{
+    "AS_Image_f3f303ce4c10444495a94e26d64302e7": {
+        "id": "AS_Image_f3f303ce4c10444495a94e26d64302e7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_5d877f9fe15d4ebd9d407dff2b56642b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "deleteItemsfromcart",
+            "display": "deleteItemsfromcart",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

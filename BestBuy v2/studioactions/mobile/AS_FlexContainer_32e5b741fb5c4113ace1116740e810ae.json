@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_32e5b741fb5c4113ace1116740e810ae": {
+        "id": "AS_FlexContainer_32e5b741fb5c4113ace1116740e810ae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2cc2aeb44f914aa6bb649ea545cd53ad"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "deea9fdacadb4f2dafdfe49029f3844f",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___012e6819b23d43a9b08d35bcace5cd06",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "backToHomePage",
+            "display": "backToHomePage",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

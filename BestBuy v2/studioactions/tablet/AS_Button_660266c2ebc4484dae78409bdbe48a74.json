@@ -1,0 +1,26 @@
+{
+    "AS_Button_660266c2ebc4484dae78409bdbe48a74": {
+        "id": "AS_Button_660266c2ebc4484dae78409bdbe48a74",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductDetailsScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f7623054472a4c5d8544972dbe2b48ff"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_7113990dda8e4828be84f90def229297",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MovetoCart",
+            "display": "MovetoCart",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

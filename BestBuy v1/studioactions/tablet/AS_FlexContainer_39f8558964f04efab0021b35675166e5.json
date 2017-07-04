@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_39f8558964f04efab0021b35675166e5": {
+        "id": "AS_FlexContainer_39f8558964f04efab0021b35675166e5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "ShoppingCartTemplate",
+            "type": "templates",
+            "platform": null,
+            "KUID": "5bcf0cbe194247eba5c06f3cb4b59609"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d0dda60eaa2b43e09dd2debfea8e56a2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "deleteItemsfromcart",
+            "display": "deleteItemsfromcart",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

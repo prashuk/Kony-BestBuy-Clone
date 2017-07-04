@@ -1,0 +1,26 @@
+{
+    "AS_Segment_f87c0533979f420387b28caaefb13e65": {
+        "id": "AS_Segment_f87c0533979f420387b28caaefb13e65",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_709f48f3b41c47ecbf6a982dc4d56c4c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "HomeCatClick",
+            "display": "HomeCatClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

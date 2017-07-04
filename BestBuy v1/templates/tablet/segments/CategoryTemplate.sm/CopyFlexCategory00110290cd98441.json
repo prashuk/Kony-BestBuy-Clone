@@ -1,0 +1,46 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8ed79b1d2e84d9ebbc527e894402e2c",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "LblProductName",
+        "ImgNavigation"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyFlexCategory00110290cd98441",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "1cde6693af0b4abeae1a425d950402a2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "CategoryTemplate",
+    "pf": "CategoryTemplate",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

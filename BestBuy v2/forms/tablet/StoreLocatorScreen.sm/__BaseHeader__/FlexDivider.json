@@ -1,0 +1,51 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9f2cc81ac9d4598bf80de5d66cbbe10",
+    "_srcKuid_": "c4c68c25461846a1b90cab2ecb098537",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "bottom": {
+            "type": "string",
+            "value": "0%"
+        },
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "1.50%"
+        },
+        "id": "FlexDivider",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "right": {
+            "type": "string",
+            "value": "0%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "zIndex": 1
+    },
+    "id": "FlexDivider",
+    "instanceOf": "c4c68c25461846a1b90cab2ecb098537",
+    "isvisible": true,
+    "kuid": "mb3becac2cd0469c86c0013121d215a7",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "BaseHeader",
+    "pf": "StoreLocatorScreen",
+    "topLevelInstanceKUID": "m42b8148b74541afbd2abe342e1be5e6",
+    "wType": "FlexContainer"
+}

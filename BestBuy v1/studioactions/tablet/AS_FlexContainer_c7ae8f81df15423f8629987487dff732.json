@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_c7ae8f81df15423f8629987487dff732": {
+        "id": "AS_FlexContainer_c7ae8f81df15423f8629987487dff732",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fa2e1a37cc184fe58a8d471ee6894ecd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_6b8c6ad23f124b6dac7336f7daa061eb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "redirectFromStoreLocatorScreenToShoppingCartScreen",
+            "display": "redirectFromStoreLocatorScreenToShoppingCartScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "AS_FlexScrollContainer_baf37bcb41804751b5ba0e7f4a937cb2": {
+        "id": "AS_FlexScrollContainer_baf37bcb41804751b5ba0e7f4a937cb2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c29094bae11a44feb27a5c67c71055a9"
+        },
+        "sourceObj": {
+            "itemKUID": "a2d90898a0cd418ab6eb1adb4c88ed2e",
+            "widgetKUID": "d90fee194d0f462680075354d5f6c83f",
+            "evt": "onScrollStart"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1687395c9a404f6b86e92123364c5c76",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "homeInit",
+            "display": "homeInit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "INVOKE_FUNCTION___c6a3c59bb8dd4013a89eae1e1a258f63",
+            "type": "INVOKE_FUNCTION",
+            "display": "<>",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

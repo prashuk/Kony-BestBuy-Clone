@@ -1,0 +1,20 @@
+{
+    "AS_Button_9de96cb59fd5424099b917405666da3c": {
+        "id": "AS_Button_9de96cb59fd5424099b917405666da3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e065efdfdc9840f4b0a6e24a03d05c29",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "goToNextPage",
+            "display": "goToNextPage",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

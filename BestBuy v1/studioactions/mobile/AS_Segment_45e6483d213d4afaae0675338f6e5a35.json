@@ -1,0 +1,36 @@
+{
+    "AS_Segment_45e6483d213d4afaae0675338f6e5a35": {
+        "id": "AS_Segment_45e6483d213d4afaae0675338f6e5a35",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ShoppingCartScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e6776aee063f4c3b80f270d0c83603fd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___89503639a0f74621b912ccd4b45e7131",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "unregisterForIdleTimeout",
+            "display": "unregisterForIdleTimeout",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "INVOKE_FUNCTION___fa75e8ab27d44b0690b48056560709bd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "TimeOut",
+            "display": "TimeOut",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

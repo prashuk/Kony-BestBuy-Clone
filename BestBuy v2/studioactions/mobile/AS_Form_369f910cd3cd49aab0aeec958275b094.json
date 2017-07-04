@@ -1,0 +1,35 @@
+{
+    "AS_Form_369f910cd3cd49aab0aeec958275b094": {
+        "id": "AS_Form_369f910cd3cd49aab0aeec958275b094",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2cc2aeb44f914aa6bb649ea545cd53ad"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_init_c0a308682fa4417c9778fd9847bfc154",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getCategeoryData",
+            "display": "getCategeoryData",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }, {
+            "id": "INVOKE_FUNCTION___2722e796f1d146af826fc3c6be393b30",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Mapinit",
+            "display": "Mapinit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

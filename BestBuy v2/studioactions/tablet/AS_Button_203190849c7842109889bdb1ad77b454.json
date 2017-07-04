@@ -1,0 +1,26 @@
+{
+    "AS_Button_203190849c7842109889bdb1ad77b454": {
+        "id": "AS_Button_203190849c7842109889bdb1ad77b454",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0b8762c826e440259b0966e3db2b45cc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_097f597959dd43f09125cb2f7cdb8401",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MapLocator",
+            "display": "MapLocator",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

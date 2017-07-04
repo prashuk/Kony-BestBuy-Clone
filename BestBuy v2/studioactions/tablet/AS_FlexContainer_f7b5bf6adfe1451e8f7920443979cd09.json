@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_f7b5bf6adfe1451e8f7920443979cd09": {
+        "id": "AS_FlexContainer_f7b5bf6adfe1451e8f7920443979cd09",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductDetailsScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "f7623054472a4c5d8544972dbe2b48ff"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "deea9fdacadb4f2dafdfe49029f3844f",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fda8dd7da088436dbe85f39e29d25a40",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onProductDetailsBack",
+            "display": "onProductDetailsBack",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

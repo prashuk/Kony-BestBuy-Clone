@@ -1,0 +1,32 @@
+{
+    "AS_Segment_a4dedd11137d4a22859fb3a0585a9c5f": {
+        "id": "AS_Segment_a4dedd11137d4a22859fb3a0585a9c5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9a11969e60114778b9180d8aade2381b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_72044dcd6b5c4532b39c8cd6b917c9f6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "HomeCatClick",
+            "display": "HomeCatClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

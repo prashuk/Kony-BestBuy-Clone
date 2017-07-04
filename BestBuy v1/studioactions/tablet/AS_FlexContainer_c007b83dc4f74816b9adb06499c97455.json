@@ -1,0 +1,44 @@
+{
+    "AS_FlexContainer_c007b83dc4f74816b9adb06499c97455": {
+        "id": "AS_FlexContainer_c007b83dc4f74816b9adb06499c97455",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9a11969e60114778b9180d8aade2381b"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "e2f6d84750a24a0b99239aefefd70f78",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION___ide_onClick_da52c6916e1347b9a592d0516e525b4d",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_c62824988a0e4596ae4e16d5b2fd6578",
+            "display": "AS_FlexContainer_c62824988a0e4596ae4e16d5b2fd6578",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onClick_eeae863a839b402a9fc526b38db3f824",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "closeHamburgerMenuHomeScreen",
+            "display": "closeHamburgerMenuHomeScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

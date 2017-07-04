@@ -1,0 +1,123 @@
+//Type your code here
+// animaiton function for the segment home cat
+function HomeAnimation() {
+    var animConfig = {
+        "duration": 0.3,
+        "iterationCount": 1,
+        "delay": 0,
+        "fillMode": kony.anim.FORWARDS
+    };
+    //scale
+    var transformProp1 = kony.ui.makeAffineTransform();
+    transformProp1.scale(0.0, 0.0);
+    var transformProp2 = kony.ui.makeAffineTransform();
+    transformProp2.scale(0.5, 0.5);
+    var transformProp3 = kony.ui.makeAffineTransform();
+    transformProp3.scale(1, 1);
+    var animDefinitionOne = {
+        0: {
+            "anchorPoint": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "transform": transformProp1
+        },
+        50: {
+            "anchorPoint": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "transform": transformProp2
+        },
+        100: {
+            "anchorPoint": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "transform": transformProp3
+        }
+    };
+    var animDefinition = kony.ui.createAnimation(animDefinitionOne);
+    var finalAnimation = {
+        definition: animDefinition,
+        config: animConfig
+    };
+    HomeScreen.SegmentProductList.setAnimations({
+        visible: finalAnimation
+    });
+    kony.print("In row display");
+}
+// end of animation
+function ProductListAnimation() {
+    var animConfig = {
+        "duration": 0.3,
+        "iterationCount": 1,
+        "delay": 0,
+        "fillMode": kony.anim.FORWARDS
+    };
+    //scale
+    var transformProp1 = kony.ui.makeAffineTransform();
+    transformProp1.scale(0.0, 0.0);
+    var transformProp2 = kony.ui.makeAffineTransform();
+    transformProp2.scale(0.5, 0.5);
+    var transformProp3 = kony.ui.makeAffineTransform();
+    transformProp3.scale(1, 1);
+    var animDefinitionOne = {
+        0: {
+            "anchorPoint": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "transform": transformProp1
+        },
+        50: {
+            "anchorPoint": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "transform": transformProp2
+        },
+        100: {
+            "anchorPoint": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "transform": transformProp3
+        }
+    };
+    var animDefinition = kony.ui.createAnimation(animDefinitionOne);
+    var finalAnimation = {
+        definition: animDefinition,
+        config: animConfig
+    };
+    ProductListScreen.ProductListSegmentent.setAnimations({
+        visible: finalAnimation
+    });
+    kony.print("In row display");
+}
+//
+function homeInit() {
+    HomeScreen.BaseHeader.FlexBack.isVisible = false;
+}
+
+function ProductListInit() {
+    ProductListScreen.BaseHeader.FlexSearch.isVisible = false;
+}
+
+function ProductDetailsinit() {
+    ProductDetailsScreen.BaseHeader.FlexSearch.isVisible = false;
+}
+
+function ProdcutDetailsImage() {
+    ProductDetailImagesScreen.BaseHeader.FlexSearch.isVisible = false;
+}
+
+function Mapinit() {
+    StoreLocatorScreen.BaseHeader.FlexSearch.isVisible = false;
+    StoreLocatorScreen.BaseHeader.FlexBack.isVisible = false;
+}
+
+function Cartinit() {
+    ShoppingCartScreen.BaseHeader.FlexSearch.isVisible = false;
+    ShoppingCartScreen.BaseHeader.FlexBack.isVisible = false;
+}

@@ -1,0 +1,126 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image01ac94c57b0364e": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrow.png"
+            },
+            "ImgProduct": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "appmenuhome.png"
+            },
+            "Onsale": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "!!! ON SALE !!!"
+            },
+            "ProductListreview": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "productListPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "productlistname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "86.50%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "ProductListSegmentent",
+    "ide_onRowClick": "AS_Segment_269e0c49b8e3473f9524524778863fe2",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "isvisible": true,
+    "kuid": "8b6826eb409e4b02bfff482a448b225b",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexSegmentCategory",
+    "pf": "ProductListScreen",
+    "retainselection": false,
+    "rowTemplateId": "ad8c54b5a6e840e6b6ba2656e2bc59e4",
+    "rowcounter": 0,
+    "rowfocusskin": "sb8975676c5c4db98fa8f53876d85d31",
+    "rowskin": "s00575d755a242e9b2ac5a12a18c622a",
+    "rowtemplate": "FlexProductList",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa316f409fa248598a498d27fe8dacfa",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexProductList": "FlexProductList",
+        "Image01ac94c57b0364e": "Image01ac94c57b0364e",
+        "ImgProduct": "ImgProduct",
+        "Onsale": "Onsale",
+        "ProductListreview": "ProductListreview",
+        "productListPrice": "productListPrice",
+        "productlistname": "productlistname"
+    },
+    "zindex": 1
+}

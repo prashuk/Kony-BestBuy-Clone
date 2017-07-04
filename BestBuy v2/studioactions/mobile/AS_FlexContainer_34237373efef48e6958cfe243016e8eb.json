@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_34237373efef48e6958cfe243016e8eb": {
+        "id": "AS_FlexContainer_34237373efef48e6958cfe243016e8eb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_5413378ac8aa43659c80a7e3eeef4015",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "redirectToStoreLocatorScreen",
+            "display": "redirectToStoreLocatorScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

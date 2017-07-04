@@ -1,0 +1,30 @@
+{
+    "AS_TextField_614166f2044e46ad8af9f7232daae4f4": {
+        "id": "AS_TextField_614166f2044e46ad8af9f7232daae4f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c29094bae11a44feb27a5c67c71055a9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fdb3b1bbcce24014a18cc99b52839a1c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "OndoneCustomsearch",
+            "display": "OndoneCustomsearch",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

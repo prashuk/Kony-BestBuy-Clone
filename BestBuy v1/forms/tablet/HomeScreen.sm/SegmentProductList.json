@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ImgNavigation": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "arrow.png"
+            },
+            "LblProductName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentProductList",
+    "ide_onRowClick": "AS_Segment_39d06392d98b4ada81778273a7b2c335",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "isvisible": true,
+    "kuid": "51695d8475644b608bb6f2c1e1bb6ba1",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "FlexSegmentProductList",
+    "pf": "HomeScreen",
+    "retainselection": false,
+    "rowTemplateId": "67c20e7e266f497f9b2568b22667b9e2",
+    "rowcounter": 0,
+    "rowfocusskin": "sb8975676c5c4db98fa8f53876d85d31",
+    "rowskin": "s44eda26effd492bb75af759e95cc079",
+    "rowtemplate": "CopyFlexCategory00110290cd98441",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa316f409fa248598a498d27fe8dacfa",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexCategory00110290cd98441": "CopyFlexCategory00110290cd98441",
+        "ImgNavigation": "ImgNavigation",
+        "LblProductName": "LblProductName"
+    },
+    "zindex": 1
+}

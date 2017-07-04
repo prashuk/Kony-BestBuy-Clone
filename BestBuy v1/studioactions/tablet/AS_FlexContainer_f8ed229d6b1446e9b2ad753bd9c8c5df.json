@@ -1,0 +1,38 @@
+{
+    "AS_FlexContainer_f8ed229d6b1446e9b2ad753bd9c8c5df": {
+        "id": "AS_FlexContainer_f8ed229d6b1446e9b2ad753bd9c8c5df",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductDetailImagesScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "247fa1df27d849bfa0b72e8ad86874ac"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "e2f6d84750a24a0b99239aefefd70f78",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____08c26bc6913b4ea091f5f0804289f0cb",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_c62824988a0e4596ae4e16d5b2fd6578",
+            "display": "AS_FlexContainer_c62824988a0e4596ae4e16d5b2fd6578",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

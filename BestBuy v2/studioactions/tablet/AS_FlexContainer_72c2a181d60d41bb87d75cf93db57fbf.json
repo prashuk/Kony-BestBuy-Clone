@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_72c2a181d60d41bb87d75cf93db57fbf": {
+        "id": "AS_FlexContainer_72c2a181d60d41bb87d75cf93db57fbf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9a11969e60114778b9180d8aade2381b"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "254fe3ee40fa43c1a76335c665c9b614",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_caae20f71743481b85bff75ac067af47",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openHamburgerMenuHomeScreen",
+            "display": "openHamburgerMenuHomeScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_c4410bd6f6274183bb343d7b3aa902d1": {
+        "id": "AS_FlexContainer_c4410bd6f6274183bb343d7b3aa902d1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductListScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "120be01cc8ed45c1a4e0dce2e6e01673"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_0a3e75b077914bcf952e69c6661bd739",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "redirectFromProductListScreenToHomeScreen",
+            "display": "redirectFromProductListScreenToHomeScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

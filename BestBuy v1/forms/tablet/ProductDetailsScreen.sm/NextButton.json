@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "s02937746a5847c2a4f6e7009bdbafb1",
+    "_text_": "Next >>",
+    "_top_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s04d76268edf4097a120a8d888bda296",
+    "id": "NextButton",
+    "ide_onClick": "AS_Button_8aa653d13f044b56bd66b75fb805f4ec",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ddda9d6152b04179a24e686a198e5872",
+    "name": "kony.ui.Button",
+    "parent": "FlexReview",
+    "pf": "ProductDetailsScreen",
+    "wType": "Button",
+    "zindex": 1
+}

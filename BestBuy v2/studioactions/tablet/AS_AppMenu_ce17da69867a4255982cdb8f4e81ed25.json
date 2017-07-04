@@ -1,0 +1,23 @@
+{
+    "AS_AppMenu_ce17da69867a4255982cdb8f4e81ed25": {
+        "id": "AS_AppMenu_ce17da69867a4255982cdb8f4e81ed25",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a027450621bf4774976ce2d75e35df5d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7e87dbd324084c1786f2f53ea40d3c41",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MovetoCart",
+            "display": "MovetoCart",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

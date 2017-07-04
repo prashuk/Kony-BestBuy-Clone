@@ -1,0 +1,60 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb8ad2c415434ad69e67d6180bb23de2",
+    "_srcKuid_": "m3714d3d0eee4608a0ff202d504b423d",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "HamburgerMenuOpen",
+        "HamburgerMenuClose",
+        "FlexBack",
+        "FlexLogo",
+        "FlexSearch",
+        "FlexDivider"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "9.50%"
+        },
+        "id": "BaseHeader",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "id": "BaseHeader",
+    "instanceOf": "m3714d3d0eee4608a0ff202d504b423d",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "mbf78a9cc0f44189b728f683b15c0fdd",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexStoreLocator",
+    "pf": "StoreLocatorScreen",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

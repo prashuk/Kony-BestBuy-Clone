@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s43688371de246f68f0d2f81bf5e5df0",
+    "_top_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "HamStoresImg",
+        "HamStoresLbl"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "HamStoresSection",
+    "ide_onClick": "AS_FlexContainer_c99dea98bf9a481f9804c7dfc12978ea",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dda801a35a174585a628e71a529d36de",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Mainapp",
+    "pf": "StoreLocatorScreen",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

@@ -1,0 +1,20 @@
+{
+    "AS_FlexContainer_4a70cd5d39ec4fa7b0ca4cde1b19a38a": {
+        "id": "AS_FlexContainer_4a70cd5d39ec4fa7b0ca4cde1b19a38a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e359f55e130b4d30b9508bf5f82cb723",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "redirectToHomeScreen",
+            "display": "redirectToHomeScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

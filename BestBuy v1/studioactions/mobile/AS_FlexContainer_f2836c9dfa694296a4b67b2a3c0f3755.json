@@ -1,0 +1,46 @@
+{
+    "AS_FlexContainer_f2836c9dfa694296a4b67b2a3c0f3755": {
+        "id": "AS_FlexContainer_f2836c9dfa694296a4b67b2a3c0f3755",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2cc2aeb44f914aa6bb649ea545cd53ad"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "e2f6d84750a24a0b99239aefefd70f78",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____4b9ae23231df4b16a26f3b4465147cad",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_0eb82c02d1ae4205a94829df367d6b8f",
+            "display": "AS_FlexContainer_0eb82c02d1ae4205a94829df367d6b8f",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true,
+            "isMasterInstanceAction": true
+        }, {
+            "id": "INVOKE_FUNCTION___2714c580f3bf4e78b18636aa57bf4636",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "closeHamburgerMenuStoreLocatorScreen",
+            "display": "closeHamburgerMenuStoreLocatorScreen",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb8ad2c415434ad69e67d6180bb23de2",
+    "_srcKuid_": "e2f6d84750a24a0b99239aefefd70f78",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "Image0d08b0c074b514f"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "HamburgerMenuClose",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0%"
+        },
+        "width": {
+            "type": "string",
+            "value": "11%"
+        },
+        "zIndex": 1
+    },
+    "id": "HamburgerMenuClose",
+    "ide_onClick": "AS_FlexContainer_175394982dc844b59e252ce9b43e7d3c",
+    "instanceOf": "e2f6d84750a24a0b99239aefefd70f78",
+    "isvisible": true,
+    "kuid": "m158051483d84afb93ef0c6318f10b57",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "BaseHeader",
+    "pf": "ProductDetailsScreen",
+    "topLevelInstanceKUID": "m095af094a2b4b2bb305c867b5d653bf",
+    "wType": "FlexContainer"
+}

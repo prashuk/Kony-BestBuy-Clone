@@ -1,0 +1,44 @@
+{
+    "AS_FlexContainer_db3db987b49c423fbd70c4643d63a33c": {
+        "id": "AS_FlexContainer_db3db987b49c423fbd70c4643d63a33c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductDetailImagesScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "e015f8fdcb7d4155a36e73cc58bfe3fe"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "e2f6d84750a24a0b99239aefefd70f78",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION___ide_onClick_ce1b2bba138241e48d232c941def9e3f",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_0eb82c02d1ae4205a94829df367d6b8f",
+            "display": "AS_FlexContainer_0eb82c02d1ae4205a94829df367d6b8f",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": true,
+            "isMasterInstanceAction": true
+        }, {
+            "id": "INVOKE_FUNCTION__ide_onClick_079a94a004be49558497ec084ea1ec57",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "closeHamburgerMenuProductDetailsImageScreen",
+            "display": "closeHamburgerMenuProductDetailsImageScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

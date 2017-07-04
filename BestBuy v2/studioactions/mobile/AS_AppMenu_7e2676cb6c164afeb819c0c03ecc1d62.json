@@ -1,0 +1,23 @@
+{
+    "AS_AppMenu_7e2676cb6c164afeb819c0c03ecc1d62": {
+        "id": "AS_AppMenu_7e2676cb6c164afeb819c0c03ecc1d62",
+        "type": "ACTION_SEQUENCE",
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2cc2aeb44f914aa6bb649ea545cd53ad"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1ae775939ae44b1eb55a7227e1a0382f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MapStoresHome",
+            "display": "MapStoresHome",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

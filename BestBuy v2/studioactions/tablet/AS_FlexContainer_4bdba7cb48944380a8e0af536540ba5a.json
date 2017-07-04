@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_4bdba7cb48944380a8e0af536540ba5a": {
+        "id": "AS_FlexContainer_4bdba7cb48944380a8e0af536540ba5a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9a11969e60114778b9180d8aade2381b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_9f94751b4a8045329c3234b900136202",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "redirectFromHomeScreenToHomeScreen",
+            "display": "redirectFromHomeScreenToHomeScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

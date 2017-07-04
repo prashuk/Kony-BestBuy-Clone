@@ -1,0 +1,107 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ImgCart": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "LblProductCartName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblProductCartPrice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentShoppingCart",
+    "ide_onPull": "AS_Segment_59be759802ef46a994d0939c1bdf7cea",
+    "ide_onPush": "AS_Segment_84ee7563202a45dba96f687526d44218",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none"
+        }
+    },
+    "isvisible": true,
+    "kuid": "b4e4b771cf2741759222dba3d475e55c",
+    "masterdata": {},
+    "maxheight": {
+        "type": "string",
+        "value": "75%"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "groupSegmetCart",
+    "pf": "ShoppingCartScreen",
+    "retainselection": false,
+    "rowTemplateId": "5bcf0cbe194247eba5c06f3cb4b59609",
+    "rowcounter": 0,
+    "rowfocusskin": "sb8975676c5c4db98fa8f53876d85d31",
+    "rowskin": "s3508ece8a814c0bad98c00414d278aa",
+    "rowtemplate": "CopyFlexShoppingCart04de677d372bf48",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa316f409fa248598a498d27fe8dacfa",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexShoppingCart04de677d372bf48": "CopyFlexShoppingCart04de677d372bf48",
+        "FlexImgCart": "FlexImgCart",
+        "ImgCart": "ImgCart",
+        "LblProductCartName": "LblProductCartName",
+        "LblProductCartPrice": "LblProductCartPrice"
+    },
+    "zindex": 1
+}

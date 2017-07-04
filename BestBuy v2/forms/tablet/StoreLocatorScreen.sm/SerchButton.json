@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s621adf0e0d246f08f1b97c8b65bcc90",
+    "_text_": "Search",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s4bad068ac474f8cb089ef2c1e109e96",
+    "id": "SerchButton",
+    "ide_onClick": "AS_Button_203190849c7842109889bdb1ad77b454",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bc9b14a66c694631a4a1d8f0cd162d6b",
+    "name": "kony.ui.Button",
+    "parent": "FlexHomeContent",
+    "pf": "StoreLocatorScreen",
+    "wType": "Button",
+    "zindex": 1
+}

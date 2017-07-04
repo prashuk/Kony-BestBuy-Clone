@@ -1,0 +1,33 @@
+{
+    "AS_Segment_04c66f8593084e219e445fe62caf7f5f": {
+        "id": "AS_Segment_04c66f8593084e219e445fe62caf7f5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "ProductListScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a0b90ec52dae4f2f9ca8aca9d8cdcdb1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6e72fbc46dc84127b7e4ed34e16c5318",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "ProductListRowClick",
+            "display": "ProductListRowClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

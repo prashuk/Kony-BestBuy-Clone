@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_ae9d30878d1443d5bcf198203b7dd977": {
+        "id": "AS_FlexContainer_ae9d30878d1443d5bcf198203b7dd977",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductDetailImagesScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ce6ec91638404f5c9fe01cd15d44912d"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "254fe3ee40fa43c1a76335c665c9b614",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d2b4dc5b46b342d39e3f1052becf0228",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openHamburgerMenuProductDetailsImageScreen",
+            "display": "openHamburgerMenuProductDetailsImageScreen",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

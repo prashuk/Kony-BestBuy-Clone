@@ -1,0 +1,331 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "ImgStarRating": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "ratings_star_3.png"
+            },
+            "LblComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblDetailComment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "LblSubmittedBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "77%"
+    },
+    "_indicator_": "none",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": true
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "011",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentReview",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "e0077033bac041a0b3dd517f1bd1ebc5",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "FlexReview",
+    "pf": "ProductDetailsScreen",
+    "retainselection": false,
+    "rowTemplateId": "19497c6dd2974e51baf37187b113237c",
+    "rowcounter": 11,
+    "rowfocusskin": "sb8975676c5c4db98fa8f53876d85d31",
+    "rowskin": "s18734665abf46bd86e5d58d3d464b45",
+    "rowtemplate": "CopyFlexProductReview09f18c4a6b28246",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "sa316f409fa248598a498d27fe8dacfa",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1444,
+        "widthRatio": 0
+    },
+    "viewtype": "pageview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexProductReview09f18c4a6b28246": "CopyFlexProductReview09f18c4a6b28246",
+        "ImgStarRating": "ImgStarRating",
+        "LblComment": "LblComment",
+        "LblDetailComment": "LblDetailComment",
+        "LblSubmittedBy": "LblSubmittedBy"
+    },
+    "windows8": {
+        "render": true
+    },
+    "zindex": 1
+}

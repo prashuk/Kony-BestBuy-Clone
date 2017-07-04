@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se17f4bdb93248c98256485ddb824fe2",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "HamHomeImg",
+        "HamHomeLbl"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "HamHomeSection",
+    "ide_onClick": "AS_FlexContainer_277e7501b9df430a8a907f0178e3b138",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4aa7f18766ee457ca5cf47345921d19a",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Mainapp",
+    "pf": "HomeScreen",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

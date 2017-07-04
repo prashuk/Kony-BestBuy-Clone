@@ -1,0 +1,20 @@
+{
+    "AS_Button_07739b5e6912498c9a8d636c504a6fe8": {
+        "id": "AS_Button_07739b5e6912498c9a8d636c504a6fe8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_2173bc0841cd4117a718974f39cca376",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "MapLocator",
+            "display": "MapLocator",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

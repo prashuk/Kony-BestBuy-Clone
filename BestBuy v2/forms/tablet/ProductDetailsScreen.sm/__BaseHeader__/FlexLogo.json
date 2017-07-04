@@ -1,0 +1,57 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb8ad2c415434ad69e67d6180bb23de2",
+    "_srcKuid_": "164a8dc14cd84a37a366959ad7baa3b2",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "Image0f64725833a0345"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "FlexLogo",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0%"
+        },
+        "width": {
+            "type": "string",
+            "value": "20%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexLogo",
+    "instanceOf": "164a8dc14cd84a37a366959ad7baa3b2",
+    "isvisible": true,
+    "kuid": "mfe369011b754ad2a868609960d5ba8e",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "BaseHeader",
+    "pf": "ProductDetailsScreen",
+    "topLevelInstanceKUID": "m095af094a2b4b2bb305c867b5d653bf",
+    "wType": "FlexContainer"
+}

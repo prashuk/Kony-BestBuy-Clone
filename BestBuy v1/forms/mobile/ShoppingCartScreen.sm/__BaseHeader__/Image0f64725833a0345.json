@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_srcKuid_": "d99c02a9711e4812a25c743584aa1ab7",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "90%"
+        },
+        "id": "Image0f64725833a0345",
+        "imageScaleMode": 1,
+        "src": "bestbuy.png",
+        "width": {
+            "type": "string",
+            "value": "90%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image0f64725833a0345",
+    "instanceOf": "d99c02a9711e4812a25c743584aa1ab7",
+    "isvisible": true,
+    "kuid": "mbc66cfcc31949eab69f66306f25102b",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "FlexLogo",
+    "pf": "ShoppingCartScreen",
+    "topLevelInstanceKUID": "m2eb7f9b3c464c9ca3eb6d1db5440083",
+    "wType": "Image"
+}

@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_fb8d4429233042a4a3fb2daa2038b189": {
+        "id": "AS_FlexContainer_fb8d4429233042a4a3fb2daa2038b189",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductDetailsScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8230ea6355bc446eb04fad9d522ed7e5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_8df4bb5fa9ea43a698faacb3cd9e419e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "reviewsMoveup",
+            "display": "reviewsMoveup",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

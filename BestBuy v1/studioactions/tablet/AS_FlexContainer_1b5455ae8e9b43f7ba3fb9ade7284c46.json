@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_1b5455ae8e9b43f7ba3fb9ade7284c46": {
+        "id": "AS_FlexContainer_1b5455ae8e9b43f7ba3fb9ade7284c46",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "StoreLocatorScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fa2e1a37cc184fe58a8d471ee6894ecd"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "254fe3ee40fa43c1a76335c665c9b614",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_1199a40530fa4259941cdb0ea041f7db",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "openHamburgerMenuStoreLocatorScreen",
+            "display": "openHamburgerMenuStoreLocatorScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

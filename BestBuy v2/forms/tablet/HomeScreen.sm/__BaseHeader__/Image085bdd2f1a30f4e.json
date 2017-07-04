@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_srcKuid_": "1f1cd378b2974a3c9cb07d15e3deddb9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "70%"
+        },
+        "id": "Image085bdd2f1a30f4e",
+        "imageScaleMode": 1,
+        "src": "humburger.png",
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image085bdd2f1a30f4e",
+    "instanceOf": "1f1cd378b2974a3c9cb07d15e3deddb9",
+    "isvisible": true,
+    "kuid": "m16ff38025314fe78ed1737b737e3c79",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "HamburgerMenuOpen",
+    "pf": "HomeScreen",
+    "topLevelInstanceKUID": "m299d2155c4d48bfb3f7bbf11ca382ce",
+    "wType": "Image"
+}

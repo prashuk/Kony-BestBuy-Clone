@@ -1,0 +1,24 @@
+{
+    "AS_Button_d76a5ac384974d6a9ab121a63ee68225": {
+        "id": "AS_Button_d76a5ac384974d6a9ab121a63ee68225",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "ProductDetailsScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2cf3d50ba7064b84922b067d733453a1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

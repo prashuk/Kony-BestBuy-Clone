@@ -1,0 +1,26 @@
+{
+    "AS_Button_2d310f79d56d4ce4a172ea8ee50f098c": {
+        "id": "AS_Button_2d310f79d56d4ce4a172ea8ee50f098c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductListScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "975c4f2bba1f4fd1b199c2d9de5c59d9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_5cdd13cb86844c4ab7e5d0e45689a1d8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "goToPreviousPage",
+            "display": "goToPreviousPage",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

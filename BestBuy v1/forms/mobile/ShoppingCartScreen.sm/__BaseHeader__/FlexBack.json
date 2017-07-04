@@ -1,0 +1,53 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb8ad2c415434ad69e67d6180bb23de2",
+    "_srcKuid_": "deea9fdacadb4f2dafdfe49029f3844f",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "Image0b65c1535a38d40"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "FlexBack",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "13%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0%"
+        },
+        "width": {
+            "type": "string",
+            "value": "13%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexBack",
+    "instanceOf": "deea9fdacadb4f2dafdfe49029f3844f",
+    "isvisible": true,
+    "kuid": "m8ab5519533e4b12ad1d7406b4d7ddb5",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "BaseHeader",
+    "pf": "ShoppingCartScreen",
+    "topLevelInstanceKUID": "m2eb7f9b3c464c9ca3eb6d1db5440083",
+    "wType": "FlexContainer"
+}

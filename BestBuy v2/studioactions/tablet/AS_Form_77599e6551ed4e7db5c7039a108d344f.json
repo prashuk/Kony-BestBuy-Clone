@@ -1,0 +1,26 @@
+{
+    "AS_Form_77599e6551ed4e7db5c7039a108d344f": {
+        "id": "AS_Form_77599e6551ed4e7db5c7039a108d344f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "9a11969e60114778b9180d8aade2381b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_4177c0a06fde49a0ad65dc3504fdff86",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "HomeAnimation",
+            "display": "HomeAnimation",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

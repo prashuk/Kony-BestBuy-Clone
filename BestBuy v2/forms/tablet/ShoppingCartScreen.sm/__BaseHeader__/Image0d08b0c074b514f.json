@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_srcKuid_": "c0d209b1f1064d5f8b7dffec6f78ec62",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "70%"
+        },
+        "id": "Image0d08b0c074b514f",
+        "imageScaleMode": 1,
+        "src": "humburger.png",
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image0d08b0c074b514f",
+    "instanceOf": "c0d209b1f1064d5f8b7dffec6f78ec62",
+    "isvisible": true,
+    "kuid": "m2c0370bfeae4555b20679121d1bb29c",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "HamburgerMenuClose",
+    "pf": "ShoppingCartScreen",
+    "topLevelInstanceKUID": "mc68eb183a944cfeb2e53076b945a4d5",
+    "wType": "Image"
+}

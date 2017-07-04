@@ -1,0 +1,32 @@
+{
+    "AS_RichText_b4e1a361ad6d40879b77c8a03d24f5a1": {
+        "id": "AS_RichText_b4e1a361ad6d40879b77c8a03d24f5a1",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "ProductDetailsScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "8230ea6355bc446eb04fad9d522ed7e5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_6da357dea9fa48ff838050056759882c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getMoreImages",
+            "display": "getMoreImages",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

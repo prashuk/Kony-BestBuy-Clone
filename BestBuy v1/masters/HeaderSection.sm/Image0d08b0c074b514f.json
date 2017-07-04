@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_src_": "humburger.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m5f00d1e68d44614ab8d95fd2d6a9798",
+        "m7bb1d8f106546c5b8d1a33f9cb3756f",
+        "m95a64c77b4741698f01c908f8d722dd",
+        "m1adaea8cf864e6d9d4df59d4fb9ca1d"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "HeaderSection",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "Image0d08b0c074b514f",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "c0d209b1f1064d5f8b7dffec6f78ec62",
+    "name": "kony.ui.Image2",
+    "parent": "HamburgerMenuClose",
+    "pf": "HeaderSection",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

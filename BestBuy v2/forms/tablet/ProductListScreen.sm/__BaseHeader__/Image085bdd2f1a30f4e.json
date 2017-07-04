@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_srcKuid_": "1f1cd378b2974a3c9cb07d15e3deddb9",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "70%"
+        },
+        "id": "Image085bdd2f1a30f4e",
+        "imageScaleMode": 1,
+        "src": "humburger.png",
+        "width": {
+            "type": "string",
+            "value": "70%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image085bdd2f1a30f4e",
+    "instanceOf": "1f1cd378b2974a3c9cb07d15e3deddb9",
+    "isvisible": true,
+    "kuid": "mc32729396e043dba528f557f561e824",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "HamburgerMenuOpen",
+    "pf": "ProductListScreen",
+    "topLevelInstanceKUID": "m47e99d7cdba4da1b0b23643f09fd53f",
+    "wType": "Image"
+}

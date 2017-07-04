@@ -1,0 +1,26 @@
+{
+    "AS_Button_65d17c8e07b640c7aacbbc9cdb55aedf": {
+        "id": "AS_Button_65d17c8e07b640c7aacbbc9cdb55aedf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "490e7c9343aa4b7abe989ef881ac7a6c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b137a2f6735b42d390099afd31ff1a8a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SearchCancelButton",
+            "display": "SearchCancelButton",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_src_": "bestbuy.png",
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m45efd12b207462ea5a3c90d201d460f",
+        "m2d1db15a7254e2dbb53e71226757388",
+        "m9c8a0a4f6494e5aad7bb520b8e3bdfa",
+        "m48673b0923f4f11aa8196771f970506",
+        "mbc66cfcc31949eab69f66306f25102b",
+        "mb0a133b3d8a44c6bdadb8ee3a8011b7",
+        "m4a946d339fe4348ac09c5771781962a",
+        "m859603094eb437abb8a3864e792f1da",
+        "m2860ca62577492096bfebd25013ebc0",
+        "mee8e38ba8974d589a152eb267f726a4"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "HeaderSection",
+        "platform": "iphone",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "Image0f64725833a0345",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "d99c02a9711e4812a25c743584aa1ab7",
+    "name": "kony.ui.Image2",
+    "parent": "FlexLogo",
+    "pf": "HeaderSection",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

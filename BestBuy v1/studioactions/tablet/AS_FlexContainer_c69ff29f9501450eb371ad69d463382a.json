@@ -1,0 +1,26 @@
+{
+    "AS_FlexContainer_c69ff29f9501450eb371ad69d463382a": {
+        "id": "AS_FlexContainer_c69ff29f9501450eb371ad69d463382a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "490e7c9343aa4b7abe989ef881ac7a6c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c504b4851fc24497b4c68e24a2353b91",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "redirectFromHomeScreenToShoppingCartScreen",
+            "display": "redirectFromHomeScreenToShoppingCartScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_c54058351b754e07b4de979a23560099": {
+        "id": "AS_FlexContainer_c54058351b754e07b4de979a23560099",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c29094bae11a44feb27a5c67c71055a9"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "4fc362e9b62a4515bdb8a3419bfb3a1a",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___defd1d4785e64d248615e8cb1b6220af",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SearchButton",
+            "display": "SearchButton",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

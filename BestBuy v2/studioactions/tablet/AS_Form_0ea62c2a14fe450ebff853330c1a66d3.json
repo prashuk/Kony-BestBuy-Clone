@@ -1,0 +1,26 @@
+{
+    "AS_Form_0ea62c2a14fe450ebff853330c1a66d3": {
+        "id": "AS_Form_0ea62c2a14fe450ebff853330c1a66d3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ShoppingCartScreen",
+            "type": "forms",
+            "platform": null,
+            "KUID": "b87b1ebb9bad44919b32473eda6bd592"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_init_ed556fe0e48c4b1a96deae361f952ef5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Cartinit",
+            "display": "Cartinit",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_srcKuid_": "7747c33b095347febc0415951edb7d45",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "90%"
+        },
+        "id": "Image02d2ed35262d249",
+        "imageScaleMode": 1,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "src": "search.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "90%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image02d2ed35262d249",
+    "instanceOf": "7747c33b095347febc0415951edb7d45",
+    "isvisible": true,
+    "kuid": "mc91e215910043a69892cead6e3d3891",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "FlexSearch",
+    "pf": "HomeScreen",
+    "topLevelInstanceKUID": "mc5622e463e248d7b92cb81d2452244f",
+    "wType": "Image"
+}

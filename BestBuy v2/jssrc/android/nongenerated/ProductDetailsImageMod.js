@@ -1,0 +1,3 @@
+function backToProductDetailsScreen() {
+    ProductDetailsScreen.show();
+}

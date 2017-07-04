@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_4a2b50531e4e48cea5074bf5dc997ec3": {
+        "id": "AS_FlexContainer_4a2b50531e4e48cea5074bf5dc997ec3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProductListScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a0b90ec52dae4f2f9ca8aca9d8cdcdb1"
+        },
+        "sourceObj": {
+            "itemKUID": "d166c3ac4a13430d8e2f2dad51099e00",
+            "widgetKUID": "deea9fdacadb4f2dafdfe49029f3844f",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9b8d06c2b05d48a78a680e1b54f597f5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onProductListBack",
+            "display": "onProductListBack",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

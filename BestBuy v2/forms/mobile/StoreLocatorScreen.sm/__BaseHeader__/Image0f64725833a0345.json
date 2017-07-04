@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se83aea32c3841aa893c3e9fb8df9ba2",
+    "_srcKuid_": "d99c02a9711e4812a25c743584aa1ab7",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "90%"
+        },
+        "id": "Image0f64725833a0345",
+        "imageScaleMode": 1,
+        "src": "bestbuy.png",
+        "width": {
+            "type": "string",
+            "value": "90%"
+        },
+        "zIndex": 1
+    },
+    "id": "Image0f64725833a0345",
+    "instanceOf": "d99c02a9711e4812a25c743584aa1ab7",
+    "isvisible": true,
+    "kuid": "mb0a133b3d8a44c6bdadb8ee3a8011b7",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "FlexLogo",
+    "pf": "StoreLocatorScreen",
+    "topLevelInstanceKUID": "maf22dd0df22465f849bfba7ab6812c6",
+    "wType": "Image"
+}

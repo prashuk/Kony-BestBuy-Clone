@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_skin_": "s40a08ee61034be685ff2d80ab3f36dd",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s18bffeeaca14eadbeaffb0e2a7e490c",
+    "id": "BtnCancel",
+    "ide_onClick": "AS_Button_93c8d0494a3146a48a0334318fcc9cd8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a80cd8d9ffc44354bd6d8fe2b6f30081",
+    "name": "kony.ui.Button",
+    "parent": "FlexCustomSearchArea",
+    "pf": "HomeScreen",
+    "wType": "Button",
+    "zindex": 1
+}

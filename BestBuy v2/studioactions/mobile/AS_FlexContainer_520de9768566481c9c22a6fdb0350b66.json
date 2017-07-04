@@ -1,0 +1,86 @@
+{
+    "AS_FlexContainer_520de9768566481c9c22a6fdb0350b66": {
+        "id": "AS_FlexContainer_520de9768566481c9c22a6fdb0350b66",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "HomeScreen",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c29094bae11a44feb27a5c67c71055a9"
+        },
+        "sourceObj": {
+            "itemKUID": "a2d90898a0cd418ab6eb1adb4c88ed2e",
+            "widgetKUID": "53bf8052fc4348dc8f59ff04c3c91a8e",
+            "evt": "onTouchStart"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____4643ee8bd51e4e908b241a83f8b2f43e",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "HomeScreen",
+            "widgetId": "FlexCustomSearchArea",
+            "itemKUID": "c29094bae11a44feb27a5c67c71055a9",
+            "widgetKUID": "fcef3da706d3428b95f122905a094eb9",
+            "animationObject": {
+                "left": "0%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "animationId": "MOVE_ACTION____4643ee8bd51e4e908b241a83f8b2f43e",
+            "displayAnimationId": "MOVE_ACTION____4643ee8bd51e4e908b241a83f8b2f43e",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "HomeScreen.FlexCustomSearchArea"
+        }, {
+            "id": "MOVE_ACTION____e9c2d0fe8c904f40a543a446de9a43c5",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "HomeScreen",
+            "widgetId": "FlexHomeContent",
+            "itemKUID": "c29094bae11a44feb27a5c67c71055a9",
+            "widgetKUID": "4f393379c9ca4070ab1aacc9e2125a74",
+            "animationObject": {
+                "top": "30%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "250"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____4643ee8bd51e4e908b241a83f8b2f43e",
+            "animationId": "MOVE_ACTION____e9c2d0fe8c904f40a543a446de9a43c5",
+            "displayAnimationId": "MOVE_ACTION____e9c2d0fe8c904f40a543a446de9a43c5",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "HomeScreen.FlexHomeContent"
+        }]
+    }
+}
